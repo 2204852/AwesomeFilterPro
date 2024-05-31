@@ -30,7 +30,7 @@ class script(object):
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ
-📢 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/TamilanMoviesChat></b><b>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a><b>
+📢 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/THECIDKAGENOUSUPPORT></b><b>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a><b>
 🌟 ᴠᴇʀsɪᴏɴ : ᴠ 4.0 [ ʙᴇᴛᴀ ]\n</b></i>"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Eva Maria is a open source project. 
